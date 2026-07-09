@@ -1,4 +1,12 @@
-<h3 align="center">Jeongeun Hyeon is here</h3>
+<h1 align="left">Jeongeun Hyeon is here</h3>
+
+<br/>
+
+<!-- Snake 게임 (snake.yml 설정 후 자동 생성됨) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzkidi/zzkidi/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/zzkidi/zzkidi/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
@@ -8,14 +16,6 @@
     <img src="https://render.gitanimals.org/farms/zzkidi" width="600" height="300"/>
   </a>
 </p>
-
-<!-- Snake 게임 (snake.yml 설정 후 자동 생성됨) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzkidi/zzkidi/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/zzkidi/zzkidi/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
 
 <!-- GitAnimals 라인 (걸어다니는 펫) -->
 <p align="center">
