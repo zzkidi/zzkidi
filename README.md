@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm zzkidi 👋</h1>
 <h3 align="center">Jeongeun Hyeon is here</h3>
 
 <br/>
@@ -26,14 +25,14 @@
 
 <br/>
 
-<!-- 꼬물꼬물 픽셀 GIF (아래 2번 설명대로 URL만 교체) -->
+<!-- 꼬물꼬물 픽셀 GIF (giphy에서 이미지 주소 복사해서 아래 src 교체) -->
 <p align="center">
   <img src="여기에_GIF_주소" width="200" alt="cute pixel" />
 </p>
 
 <br/>
 
-<!-- Snake 게임 (아래 3번 설정 후 자동 생성됨) -->
+<!-- Snake 게임 (snake.yml 설정 후 자동 생성됨) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzkidi/zzkidi/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/zzkidi/zzkidi/output/github-contribution-grid-snake.svg" />
