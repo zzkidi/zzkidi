@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 농장 모드 — 펫 전부 한눈에:
-<a href="https://github.com/{username}/gitanimals">
+<a href="https://github.com/zzkidi/gitanimals">
   <img src="https://render.gitanimals.org/farms/zzkidi"/>
 </a>
 
 라인 모드 — 펫이 움직이는 애니메이션:
-<a href="https://github.com/{username}/gitanimals">
+<a href="https://github.com/zzkidi/gitanimals">
   <img src="https://render.gitanimals.org/lines/zzkidi?pet-id=1" width="1000" height="120"/>
 </a>
