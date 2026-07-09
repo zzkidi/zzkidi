@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/zzkidi/gitanimals">
-  <img src="https://render.gitanimals.org/lines/zzkidi?pet-id=1" width="600" height="300"/>
+  <img src="https://render.gitanimals.org/lines/zzkidi?pet-id=1" width="600" height="150"/>
 </a>
